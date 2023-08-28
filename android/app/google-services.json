@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "486080045044",
+    "project_id": "travel-places-20b0f",
+    "storage_bucket": "travel-places-20b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486080045044:android:728a63b3433ae462e323a1",
+        "android_client_info": {
+          "package_name": "com.example.travel_places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486080045044-1aprdqk9sd42drqsllv5b8j8r61nsiln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDe8QWq1SWbxNjYWjY9ah6zC_ZbGHn90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486080045044-1aprdqk9sd42drqsllv5b8j8r61nsiln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486080045044-im34g79249bs7gp76ms22kqejr18695m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travelPlaces"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
