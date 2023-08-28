@@ -1,17 +1,17 @@
 # travel_places
 
-This is my internship project.
+-This is my internship project.
 
 
-With the help of firebase dependencies users can sign up and login to the app.
-Users are saved to the firestore database.
-Users can post a post (post contains title, picture and a description).
-Users can make comments to posts.
-Users can like posts.
-Users can see their stats such as number of posts, likes, comments on the profile screen with their posts and profile image.
-There is a role system in the app.
-Admins can delete a user from the database.
-Deleted users will get a email says 'they are banned from the app'.
+- With the help of firebase dependencies users can sign up and login to the app.
+- Users are saved to the firestore database.
+- Users can post a post (post contains title, picture and a description).
+- Users can make comments to posts.
+- Users can like posts.
+- Users can see their stats such as number of posts, likes, comments on the profile screen with their posts and profile image.
+- There is a role system in the app.
+- Admins can delete a user from the database.
+- Deleted users will get a email says 'they are banned from the app'.
 
 
 
